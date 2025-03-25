@@ -15,7 +15,7 @@ assignees: ''
 - We are interested in your use case associated and the current workaround you have found if they exist. Please comment your own issue with those details if possible.
 #### Erase this before submission ####
 
-As an OVHcloud customer using **[required existing product, or jsut public cloud in general]**
+As an OVHcloud customer using **[required existing product, or just public cloud in general]**
 I want **[this product or a new/other one]** to **[new feature or localisation]**
 so that **[this new use case(s) you can achieve]**
 
